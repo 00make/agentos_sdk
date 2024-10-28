@@ -1,0 +1,6 @@
+int64 id
+---
+int64 cluster_id
+int64 object_id
+geometry_msgs/PoseStamped object_pose
+int64 result

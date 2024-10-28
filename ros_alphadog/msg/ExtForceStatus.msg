@@ -1,0 +1,4 @@
+int32 foot_trap
+bool is_picked_up
+geometry_msgs/Vector3 ext_f_body
+geometry_msgs/Vector3 body_collision

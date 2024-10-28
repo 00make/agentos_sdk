@@ -1,0 +1,12 @@
+uint8 alarm
+uint8 temperature
+uint8 drv_temp
+uint8 mode
+uint8 bus_volt
+uint8 vref
+uint8 chip_temp
+uint8 enc_stat
+uint8 enc_stat_x
+uint8 drv_fsr1
+uint8 drv_fsr2
+int32 frame_lost

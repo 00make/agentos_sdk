@@ -1,0 +1,11 @@
+int16[] flags
+int32[] status 
+int32 fdcan0_errcode
+int32 fdcan1_errcode
+int32 spi_errcode
+int32 spi_dma_rx_errcode
+int32 spi_dma_tx_errcode
+uint16 i2c3_errcode
+int16 humidity
+int16 temperature
+ros_alphadog/ActuatorInfo[] actuators

@@ -1,0 +1,2 @@
+std_msgs/Header header
+ros_alphadog/RobotSystemInfo system_info

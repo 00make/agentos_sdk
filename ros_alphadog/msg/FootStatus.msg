@@ -1,0 +1,10 @@
+float32 x
+float32 y
+float32 z
+float32 vx
+float32 vy
+float32 vz
+float32 contact
+float32 ext_force_x
+float32 ext_force_y
+float32 ext_force_z

@@ -1,0 +1,11 @@
+# ids are defined in pub_object_model_params
+int64 object_id
+# id of cluster in given object id
+# id: -1 (clear cluster)
+int64 cluster_id
+# size of given cluster in given object id
+uint64 cluster_size
+# mean pose of cluster
+geometry_msgs/Vector3 pose
+---
+int64 result

@@ -1,0 +1,16 @@
+
+#invoker - name of invoker skill
+string invoker
+
+#invoke_priority - priority of this invoke
+int32 invoke_priority
+
+#hold time in seconds to avoid being overwrited by another invoke 
+float32 hold_time
+
+#whether preempt the current and next invoking. 0: no preempt; 1: preempt all invokers with lower priority and itself with same priority; 2: preempt all invokers with lower priority
+uint32 preempt
+
+---
+
+std_msgs/Empty reserved

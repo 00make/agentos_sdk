@@ -1,0 +1,10 @@
+uint64 error
+uint64 warning
+int32 estop
+int32 user_mode
+int32 controller_type
+int32 action
+int32 motion_mode
+int32 velocity_controller
+int32 gait
+bool standing

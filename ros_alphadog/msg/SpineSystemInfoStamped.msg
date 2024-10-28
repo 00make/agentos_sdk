@@ -1,0 +1,2 @@
+std_msgs/Header header
+ros_alphadog/SpineSystemInfo spine_info

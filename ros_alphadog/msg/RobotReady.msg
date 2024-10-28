@@ -1,0 +1,2 @@
+bool ready
+time stamp

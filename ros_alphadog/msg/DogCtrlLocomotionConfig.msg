@@ -1,0 +1,14 @@
+int32 velocity_controller
+int32 gait
+float32 swing_duration
+float32 model_scale_x
+float32 model_scale_y
+float32 body_height
+float32 foot_height
+int32 swing_traj_type
+int32 ground_model
+float32 friction
+int32 free_leg
+float32 swaying_duration
+float32 jump_distance
+float32 jump_angle

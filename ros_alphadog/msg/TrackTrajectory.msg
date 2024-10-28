@@ -1,0 +1,4 @@
+ros_alphadog/BodyStatusStamped current_status
+ros_alphadog/BodyStatusStamped[] desired_trajectory
+int32 desired_trajectory_length
+ros_alphadog/HeightMap height_map

@@ -1,0 +1,4 @@
+ros_alphadog/RobotStatus current_status
+ros_alphadog/RobotStatus desired_status
+uint64 error
+uint64 warning

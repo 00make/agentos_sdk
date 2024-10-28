@@ -1,0 +1,6 @@
+int32 user_mode
+int32 controller_type
+int32 action
+int32 motion_mode
+ros_alphadog/BodyStatus desired_body_status
+ros_alphadog/DogCtrlLocomotionConfig locomotion

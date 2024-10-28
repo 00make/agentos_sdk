@@ -1,0 +1,7 @@
+
+#invoker - name of invoker skill
+string invoker
+
+---
+
+std_msgs/Empty reserved

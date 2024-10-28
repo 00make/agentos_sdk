@@ -1,0 +1,16 @@
+#goal definition
+
+#command - 0:stop; 1:start; 2:pause; 3:resume; 4:preempt (do nothing and always been accepted); 5: permanently_stop; 6:permanently_start;
+uint32 command
+
+---
+#result definition
+
+#result - 0: undefined; 1:succeed; 2:failed;
+uint32 result
+
+---
+#feedback definition
+
+#progress - 0.0~1.0
+float32 progress

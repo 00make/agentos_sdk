@@ -1,0 +1,29 @@
+#goal definition
+
+#invoker - name of invoker skill
+string invoker
+
+#invoke_priority - priority of this invoke
+int32 invoke_priority
+
+#hold time in seconds to avoid being overwrited by another invoke 
+float32 hold_time
+
+#args - arguments
+string args
+---
+#result definition
+
+#result - 0:undefined; 1:succeed; 2:canceled; 3:failed; 4:rejected
+uint32 result
+
+#response - response from skill
+string response
+---
+#feedback definition
+
+#progress - 0.0~1.0
+float32 progress
+
+#state - execute state of skill
+string state

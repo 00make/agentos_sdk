@@ -1,0 +1,4 @@
+agent_msgs/Float32Array drive_kp
+agent_msgs/Float32Array emotion_kp
+---
+int16 result
