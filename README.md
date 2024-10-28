@@ -24,10 +24,10 @@ Agent Skills 基于ROS开发，旨在为开发者提供便捷的工具和接口�
 
 AgentOS SDK目录结构：
 
-- [agent_msgs](https://github.com/AlphaDogDeveloper/agentos_sdk/-/tree/master/agent_msgs) Agent Skills相关技能接口，包括技能消息定义、调用技能及控制技能等。
-- [ros_alphadog](https://github.com/AlphaDogDeveloper/agentos_sdk/-/tree/master/ros_alphadog) 运动控制相关接口，例如获取机器狗的运动状态。
-- [docs](https://github.com/AlphaDogDeveloper/agentos_sdk/-/tree/master/docs) 文档相关。
-- [agentos_examples](https://github.com/AlphaDogDeveloper/agentos_sdk/-/tree/master/agentos_examples) 示例项目。
+- [agent_msgs](https://github.com/AlphaDogDeveloper/agentos_sdk/tree/master/agent_msgs) Agent Skills相关技能接口，包括技能消息定义、调用技能及控制技能等。
+- [ros_alphadog](https://github.com/AlphaDogDeveloper/agentos_sdk/tree/master/ros_alphadog) 运动控制相关接口，例如获取机器狗的运动状态。
+- [docs](https://github.com/AlphaDogDeveloper/agentos_sdk/tree/master/docs) 文档相关。
+- [agentos_examples](https://github.com/AlphaDogDeveloper/agentos_sdk/tree/master/agentos_examples) 示例项目。
 
 ## 编译
 
@@ -49,4 +49,4 @@ source devel/setup.bash
 
 ## 使用指南
 
-请至 [wiki](https://github.com/AlphaDogDeveloper/agentos_sdk/-/wikis/home) 查看。
+请至 [wiki](https://github.com/AlphaDogDeveloper/agentos_sdk/wikis/home) 查看。

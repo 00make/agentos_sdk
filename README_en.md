@@ -22,10 +22,10 @@ The Agent Skills are developed based on ROS, aimed at providing developers with 
 
 AgentOS SDK directory structure:
 
-- [agent_msgs](https://github.com/AlphaDogDeveloper/agentos_sdk/-/tree/master/agent_msgs) Interfaces related to Agent Skills, including skill message definitions, skill invocation, and control.
-- [ros_alphadog](https://github.com/AlphaDogDeveloper/agentos_sdk/-/tree/master/ros_alphadog) Interfaces related to motion control, for obtaining the motion state of the robotic dog.
-- [docs](https://github.com/AlphaDogDeveloper/agentos_sdk/-/tree/master/docs) Documents.
-- [agentos_examples](https://github.com/AlphaDogDeveloper/agentos_sdk/-/tree/master/agentos_examples) Code examples.
+- [agent_msgs](https://github.com/AlphaDogDeveloper/agentos_sdk/tree/master/agent_msgs) Interfaces related to Agent Skills, including skill message definitions, skill invocation, and control.
+- [ros_alphadog](https://github.com/AlphaDogDeveloper/agentos_sdk/tree/master/ros_alphadog) Interfaces related to motion control, for obtaining the motion state of the robotic dog.
+- [docs](https://github.com/AlphaDogDeveloper/agentos_sdk/tree/master/docs) Documents.
+- [agentos_examples](https://github.com/AlphaDogDeveloper/agentos_sdk/tree/master/agentos_examples) Code examples.
 
 ## Compilation
 
@@ -47,7 +47,7 @@ source devel/setup.bash
 
 ## User Guide
 
-Please refer to the [wiki](https://github.com/AlphaDogDeveloper/agentos_sdk/-/wikis/Home_en) for more information.
+Please refer to the [wiki](https://github.com/AlphaDogDeveloper/agentos_sdk/wikis/Home_en) for more information.
 
 
 
