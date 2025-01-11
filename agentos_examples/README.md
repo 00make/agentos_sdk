@@ -1,7 +1,8 @@
 #### Depends
 
 ```bash
-sudo apt install libjsoncpp-dev
+sudo apt install libjsoncpp-dev #For Ubuntu/Debian systems
+brew install jsoncpp #For macOS systems
 ```
 
 #### Compile
