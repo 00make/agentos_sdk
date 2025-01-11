@@ -8,12 +8,11 @@ sudo apt install libjsoncpp-dev
 
 ```bash
 cd ~/agent_ws
-rm src/agentos_sdk/agentos_examples/CATKIN_IGNORE
+rm src/agentos_examples/CATKIN_IGNORE
 catkin build
 ```
 
 #### Run
-
 
 ```bash
 source devel/setup.bash
